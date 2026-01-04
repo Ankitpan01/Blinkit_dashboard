@@ -1,2 +1,7 @@
+
+
+
 # Blinkit_dashboard
-This project presents an interactive sales analytics dashboard built to analyze Blinkit’s retail performance across multiple dimensions such as outlet type, outlet size, location tier, item categories, and fat content.
+To build an interactive dashboard that analyzes Blinkit’s sales performance across outlets, locations, and product categories, enabling quick insights into key metrics and supporting data-driven business decisions.
+## Dataset Used
+<a href = "https://github.com/Ankitpan01/Blinkit_dashboard/blob/main/BlinkIT%20Grocery%20Data.csv">Dataset</a>
